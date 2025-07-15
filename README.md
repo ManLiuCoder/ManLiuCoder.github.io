@@ -1,1 +1,1 @@
-# Lang's personal website.
+# Man's personal website.
